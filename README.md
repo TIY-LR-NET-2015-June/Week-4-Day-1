@@ -16,7 +16,7 @@ Using the following HTML (no changes), make it look like the following image.
 </ul>
 ```
 
-![place](assests/challenge.png)
+![place](assets/challenge.png)
 
 You can fork this codepen to get started: http://codepen.io/dpollock/pen/WvKVbb
 
