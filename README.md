@@ -1,6 +1,6 @@
 # Week-4-Day-1
 
-# Day 16 - Intro to ASP.NET MVC
+# Intro to ASP.NET MVC
 
 Welcome to MVC! You can checkout, but you can't even leave!
 
